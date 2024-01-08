@@ -4,7 +4,6 @@ if (!isset($_SESSION['id_admin'])) {
     include "./notFound.php";
 } else {
 ?>
-
     <!DOCTYPE html>
     <html lang="en">
 
